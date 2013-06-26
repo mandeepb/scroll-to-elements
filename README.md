@@ -1,5 +1,3 @@
-scroll-to-elements
-==================
 
 function scrollTo($element) {
   $('body, html').animate({
